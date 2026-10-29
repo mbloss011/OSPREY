@@ -1,0 +1,6 @@
+{
+  "owner": "Your Name",
+  "hosts": ["example.com"],
+  "docroots": ["/var/www/example.com"],
+  "signed_by": "Your Name"
+}
